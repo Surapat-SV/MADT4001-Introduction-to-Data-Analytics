@@ -19,7 +19,6 @@ The queries solve 13 problems ranging from simple `SELECT` statements to more co
 ---
 
 ## 🗂️ File Structure
-## 🗂️ File Structure
 
 ```bash
 MADT4001-Introduction-to-Data-Analytics/Midterm Exam - SQL
@@ -28,7 +27,7 @@ MADT4001-Introduction-to-Data-Analytics/Midterm Exam - SQL
 ```
 ---
 
-🛠️ How to Use
+## 🛠️ How to Use
 
 1. Prerequisites
 MySQL Workbench or any MySQL-compatible client
@@ -37,7 +36,7 @@ Internet connection to access the provided database host
 2. Database Connection
 Please connect using the following credentials in MySQL Workbench or any other SQL client:
 
-📝 Problem Summary
+## 📝 Problem Summary
 
 Each question is based on specific business requirements. Below are examples:
 
