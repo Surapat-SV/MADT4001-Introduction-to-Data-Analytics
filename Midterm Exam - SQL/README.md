@@ -1,4 +1,4 @@
-# MADT4001 SQL Midterm Portfolio
+# MADT4001 SQL Midterm
 
 This project contains SQL query solutions for the midterm exam of the course **MADT4001 - Fundamentals of Data Analysis** at NIDA.
 
