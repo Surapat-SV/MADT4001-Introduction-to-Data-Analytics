@@ -19,11 +19,13 @@ The queries solve 13 problems ranging from simple `SELECT` statements to more co
 ---
 
 ## 🗂️ File Structure
+## 🗂️ File Structure
 
+```bash
 MADT4001-Introduction-to-Data-Analytics/Midterm Exam - SQL
 ├── Surapat_SQL_MIDTERM.sql
 ├── README.md
-
+```
 ---
 
 🛠️ How to Use
